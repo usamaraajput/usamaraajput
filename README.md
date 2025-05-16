@@ -22,9 +22,3 @@ I'm a passionate programmer focused on writing clean, efficient, and scalable co
 ![MongoDB](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=6aa6f8)
 ![MySQL](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=6aa6f8)
 ![Redis](https://img.shields.io/badge/Code-Redis-informational?style=flat&logo=redis&logoColor=white&color=6aa6f8)
-
----
-
-💖 **Support Me**
-
-[![Patreon](https://img.shields.io/badge/Support%20me%20on-Patreon-orange?style=flat&logo=patreon&logoColor=white)](https://www.patreon.com/usamaraajput)
