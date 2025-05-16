@@ -12,7 +12,7 @@ I'm a passionate programmer focused on writing clean, efficient, and scalable co
 
 ---
 
-⚙️ **Technologies Stack**
+⚙️ **Technologies I Use**
 
 ![Go](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=6aa6f8)
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
