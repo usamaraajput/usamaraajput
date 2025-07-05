@@ -1,6 +1,6 @@
 ## Hi, I'm Usama 👋
 
-**Go Developer | Open Source Contributor | Founder of [Droqsic](https://github.com/droqsic)**
+**Go Developer | Open Source Contributor | Founder of [Droqsic](https://github.com/droqsic) & [Logic Weave](https://github.com/LogicWeave)**
 
 I'm a passionate programmer focused on writing clean, efficient, and scalable code in **Go (Golang)**. I’ve published public Go packages and actively build developer-focused tools under the organization **Droqsic**, which I founded.
 
