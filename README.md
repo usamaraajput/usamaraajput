@@ -1,13 +1,13 @@
 ## Hi, I'm Usama 👋
 
-**Go Developer | Open Source Contributor | Founder of [Droqsic](https://github.com/droqsic) & [Logic Weave](https://github.com/LogicWeave)**
+**Backend Engineer (Go & Python) | Automation Enthusiast | Founder of [Droqsic](https://github.com/droqsic) & [Logic Weave](https://github.com/LogicWeave)**
 
-I'm a passionate programmer focused on writing clean, efficient, and scalable code in **Go (Golang)**. I’ve published public Go packages and actively build developer-focused tools under the organization **Droqsic**, which I founded.
+I'm a passionate **Backend Engineer** with a strong focus on writing clean, efficient, and scalable code in **Go** and **Python**. I build automation tools, backend systems, and developer-first libraries. As the founder of [Droqsic](https://github.com/droqsic) and [Logic Weave](https://github.com/LogicWeave), I actively maintain and contribute to open-source projects aimed at solving real engineering problems and streamlining developer workflows.
 
 - 🔭 &nbsp;I’m currently working on something cool 😉
-- 🌱 &nbsp;Currently learning Flutter & Angular
-- ⚙️ &nbsp;Focused on performance optimization and API craftsmanship
-- 🧠 &nbsp;Love working on automation, CLI tools, and distributed systems
+- 🌱 &nbsp;Learning Flutter & Angular to expand frontend versatility
+- ⚙️ &nbsp;Focused on performance optimization, clean architecture and API craftsmanship
+- 🧠 &nbsp;Love working on automation, CLI tools and distributed systems
 - 💬 &nbsp;Ask me about anything related to Go/Python or React/Node/Express
 
 ---
