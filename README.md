@@ -1,8 +1,8 @@
 ## Hi, I'm Usama 👋
 
-**Backend Engineer (Go & Python) | Automation Enthusiast | Founder of [Droqsic](https://github.com/droqsic) & [Logic Weave](https://github.com/LogicWeave)**
+**Backend Engineer (Go & Python) | Automation Enthusiast | Founder of [Droqsic](https://github.com/droqsic), [Veezod](https://github.com/veezod) & [Logic Weave](https://github.com/LogicWeave)**
 
-I'm a passionate **Backend Engineer** with a strong focus on writing clean, efficient, and scalable code in **Go** and **Python**. I build automation tools, backend systems, and developer-first libraries. As the founder of [Droqsic](https://github.com/droqsic) and [Logic Weave](https://github.com/LogicWeave), I actively maintain and contribute to open-source projects aimed at solving real engineering problems and streamlining developer workflows.
+I'm a passionate **Backend Engineer** with a strong focus on writing clean, efficient, and scalable code in **Go** and **Python**. I build automation tools, backend systems, and developer-first libraries. As the founder of [Droqsic](https://github.com/droqsic), [Veezod](https://github.com/veezod) and [Logic Weave](https://github.com/LogicWeave), I actively maintain and contribute to open-source projects aimed at solving real engineering problems and streamlining developer workflows.
 
 - 🔭 &nbsp;I’m currently working on something cool 😉
 - 🌱 &nbsp;Learning Flutter & Angular to expand frontend versatility
